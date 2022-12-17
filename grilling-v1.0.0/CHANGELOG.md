@@ -6,3 +6,5 @@
 - Implemented cook time and weight recommendations
 <br/>
 <br/>
+### To do:
+- Implement filet and shish kebab option
