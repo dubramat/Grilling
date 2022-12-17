@@ -26,9 +26,9 @@
 <br/>
 
 ### Contact
--If there is an issue with the execution of the program, please feel free to reach out to me at steak_project@proton.me
+-If there is an issue with the execution of the program, please feel free to reach out to me at steak_project@proton.me, otherwise find me at https://www.linkedin.com/in/matthew-dubravec-13359123b/
 
 <br/>
 
 ### Acknowledgements:
-- I want to acknowledge AlanwithaZ for all AlanwithaZ's guidance with the creation of this project
+- I want to acknowledge Shah for all the guidance given with the creation of this project
