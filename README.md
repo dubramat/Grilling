@@ -31,4 +31,4 @@
 <br/>
 
 ### Acknowledgements:
-- I want to acknowledge AlanwithaZ for all AlanwithaZ's guidance with the creation of this project
+- I want to acknowledge Zalan Shah-->(https://github.com/Zalanshah64) for guidance with the creation of this project
