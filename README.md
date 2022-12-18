@@ -26,7 +26,7 @@
 <br/>
 
 ### Contact
--If there is an issue with the execution of the program, please feel free to reach out to me at steak_project@proton.me
+- If there is an issue with the execution of the program, please feel free to reach out to me at steak_project@proton.me
 
 <br/>
 
