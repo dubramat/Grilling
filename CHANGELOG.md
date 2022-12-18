@@ -4,5 +4,6 @@
 ### Added or Changed
 - Allowed for 4 beef selection tipes
 - Implemented cook time and weight recommendations
-<br/>
-<br/>
+
+### To do:
+- Implement filet and shish kebab option
